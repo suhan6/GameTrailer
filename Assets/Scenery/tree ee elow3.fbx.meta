@@ -1,9 +1,14 @@
 fileFormatVersion: 2
-guid: 6e18d62236d71aa4c95eb2a17b2c94ca
+guid: c6668841037a16b47bcb810f5b0302bf
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree ee elow2_mtl0
+    second: {fileID: 2100000, guid: cb2589cb60e539d47872e11419c24e56, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
